@@ -1,4 +1,4 @@
-public abstract class BarrenMoor {
+public class BarrenMoor {
 	String Name;
 
 	public BarrenMoor() {
